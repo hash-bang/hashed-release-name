@@ -1,6 +1,6 @@
 {
   "name": "hashed-release-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a simple project release name from a hash (Git, MD5, SHA1 etc.)",
   "main": "index.js",
   "scripts": {
